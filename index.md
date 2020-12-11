@@ -6,7 +6,7 @@ La journée 2020 du [groupe de travail Vélocité Logicielle](https://gdrgpl.myx
 
 La visioconférence utilise l'outil BigBlueButton (BBB). La connexion se fait via l'URL suivante :
 
-**[TODO](https://)**
+**[https://webconf.u-bordeaux.fr/b/tho-mkk-k4p](https://webconf.u-bordeaux.fr/b/tho-mkk-k4p)**
 
 ### Programme de la journée
 
