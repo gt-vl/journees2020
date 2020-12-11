@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Journée 2020 du GT Vélocité Logicielle
 
-You can use the [editor on GitHub](https://github.com/gt-vl/journees2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+La journée 2020 du [groupe de travail Vélocité Logicielle](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Rimel/) se tiendra le **mercredi 16 décembre** en visioconférence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Informations pratiques
 
-### Markdown
+La visioconférence utilise l'outil BigBlueButton (BBB). La connexion se fait via l'URL suivante :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[TODO](https://)**
 
-```markdown
-Syntax highlighted code block
+### Programme de la journée
 
-# Header 1
-## Header 2
-### Header 3
+Les exposés et questions sont de préférence en français, ou en anglais si l'orateur·rice le souhaite. Chaque exposé dure 30 minutes, incluant 10 minutes de questions.
 
-- Bulleted
-- List
+**09:30-9:45** Accueil et introduction -- *Djamel E. Khelladi, Thomas Degueule*
 
-1. Numbered
-2. List
+**09:45-10:15** Architecture autocicatrisante à base de microservices avec la gestion de versions -- *Yuwei Wang*\
+**10:15-10:45** About Adversarial Configurations for SPLs -- *Paul Temple*
 
-**Bold** and _Italic_ and `Code` text
+**10:45-11:00** Pause
 
-[Link](url) and ![Image](src)
-```
+**11:00-11:30** A Tree-Matching Algorithm to Compare Webpages -- *Sacha Brisset*\
+**11:30-12:00** Asset-Oriented Threat Modeling -- *Nan Messe*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**12:00-14:00** Pause  Repas
 
-### Jekyll Themes
+**14:00-14:30** Bug Identification Among Issue-Tracking Systems: a Preliminary Study -- *Quentin Perez*\
+**14:30-15:00** VaryMinions: Leveraging RNNs to Learn Variability in Business Processes -- *Sophie Fortz*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gt-vl/journees2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**15:00-15:15** Pause
 
-### Support or Contact
+**15:15-15:45** Identification automatique d'implémentations de
+variabilité orientée objet -- *Johann Mortara*\
+**15:45-16:15** Improving Practices in a Small French Company: First Step -- *Honore Houekpetodji*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**16:15-16:30** Discussions et conclusion -- *Djamel E. Khelladi, Thomas Degueule*
+
+### Résumés
+
+TODO
