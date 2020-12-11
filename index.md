@@ -4,13 +4,13 @@ La journée 2020 du [groupe de travail Vélocité Logicielle](https://gdrgpl.myx
 
 ### Informations pratiques
 
-La visioconférence utilise l'outil BigBlueButton (BBB). La connexion se fait via l'URL suivante :
+La visioconférence utilise l'outil BigBlueButton (BBB). La connexion se fait via le lien suivant :
 
 **[https://webconf.u-bordeaux.fr/b/tho-mkk-k4p](https://webconf.u-bordeaux.fr/b/tho-mkk-k4p)**
 
 ### Programme de la journée
 
-Les exposés et questions sont de préférence en français, ou en anglais si l'orateur·rice le souhaite. Chaque exposé dure 30 minutes, incluant 10 minutes de questions.
+Les exposés et questions sont de préférence en français, ou en anglais si l'orateur·rice le souhaite. Chaque exposé dure 20 minutes + 10 minutes de questions.
 
 **09:30-9:45** Accueil et introduction -- *Djamel E. Khelladi, Thomas Degueule*
 
