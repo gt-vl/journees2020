@@ -36,6 +36,11 @@ Les exposés et questions sont de préférence en français, ou en anglais si l'
 
 ### Résumés
 
+**Architecture autocicatrisante à base de microservices avec la gestion de versions**
+There is a migration from monolithic architectures to microservices architectures. One of the benefits of microservices is their independent deployment and evolution driven by different development and operations teams.  However, not all the microservices will be evolving and upgraded at the same rate. Every microservice can change at any time or even in a way breaking the system. This is where microservices versioning for evolution becomes more important but more complex in microservices architectures. A PhD project has been launched to propose a self-healing microservices architecture for versioning problem. In our work, we firstly present the first results of the state of the art
+for microservices versioning: we propose a taxonomy framework for microservices versioning based on the "Five Ws and How" method. We use this taxonomy to analyse and compare the current research and industry work. Then, we identify challengesand some special attentions for future work on microservices versioning. The current work ongoing is to
+propose a first prototype to automatize the versioning processus during deployment and execution of microservices.
+
 **About Adversarial Configurations for SPLs**
 Software product line (SPL) engineering allows the derivation of products tailored to stakeholders’ needs through the setting of a large number of configuration options. Unfortunately, options and their interactions create a huge configuration space which is either intractable or too costly to explore exhaustively. Instead of covering all products, machine learning (ML) approximates the set of acceptable products out of a training set . But ML techniques can make prediction errors. We apply adversarial machine learning to the world of SPLs to craft new configurations fakling to be acceptable while being not and vice-versa. It allows to diagnose prediction errors and take appropriate actions.
 
