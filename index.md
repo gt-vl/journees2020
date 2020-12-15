@@ -10,8 +10,8 @@ La visioconférence utilise l'outil BigBlueButton (BBB). La connexion se fait vi
 
 *En cas de problème*, nous utiliserons la réunion Zoom suivante :
 
-[https://univ-rennes1-fr.zoom.us/j/95149843716](https://univ-rennes1-fr.zoom.us/j/95149843716)
-ID de réunion : 951 4984 3716
+[https://univ-rennes1-fr.zoom.us/j/95149843716](https://univ-rennes1-fr.zoom.us/j/95149843716)\
+ID de réunion : 951 4984 3716\
 Code secret : 300173
 
 ### Programme de la journée
